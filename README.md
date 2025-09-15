@@ -83,6 +83,14 @@ v
 4. 📥 Recommendation displayed on UI.  
 
 ---
+## 📸 Deployment Screenshots  
+
+Here are some snapshots of the project deployment:
+
+![Deployment Screenshot 1](assets/deployment1.png)  
+![Deployment Screenshot 2](assets/deployment2.png)  
+![Deployment Screenshot 3](assets/deployment3.png)  
+
 
 ## 📂 Project Structure
 
